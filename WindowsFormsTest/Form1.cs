@@ -18,7 +18,7 @@ namespace WindowsFormsTest
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Ala ma kota");
+            MessageBox.Show("Ala ma kota 2");
         }
     }
 }
